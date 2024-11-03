@@ -1,0 +1,2 @@
+1. Enable global method security by specifying the security configuration
+2. Use @PreAuthorize in the controllers, to state which method requires what roles.
